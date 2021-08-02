@@ -1,3 +1,9 @@
 *.py[cod]
 __pycache__/
 .idea/
+output
+build/
+dist/
+*.egg-info/
+.ipycache/
+ipynb_checkpoints/
